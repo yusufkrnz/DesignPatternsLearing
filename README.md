@@ -4,7 +4,7 @@ Bu repo, yazılım geliştirmede kullanılan **Design Pattern (Tasarım Kalıpla
 Amaç: Kalıpları sade bir dille açıklamak, sınıflandırmak ve görseller ile desteklemek.  
 
 <p align="center">
-  <img src="assets/design-patterns-map.png" alt="Design Patterns Mindmap" width="600"/>
+  <img src="assets/DesignPattern.png" alt="Design Patterns Overview" width="600"/>
 </p>
 
 ---
