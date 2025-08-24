@@ -52,9 +52,3 @@ Nesneler arası iletişim ve davranışları yönetir:
 - Kategoriler arası farkı anlamak  
 - Görselle desteklenen kısa özetlere ulaşmak  
 
----
-
-## 📝 Notlar
-
-📌 Bu repo **teorik** bir kaynaktır, kod örnekleri içermez.  
-📌 Her pattern için açıklamalar ilerleyen güncellemelerde eklenecektir.  
