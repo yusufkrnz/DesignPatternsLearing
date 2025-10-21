@@ -30,6 +30,10 @@ function processPayment(type, amount) {
 
 **Avantajlar:** Merkezi nesne oluşturma, kolay genişletilebilirlik
 
+## 🎨 Tasarım Diyagramı
+
+![Simple Factory Pattern Diagram](view/image.png)
+
 ## 🏗️ Proje Yapısı
 
 ```
